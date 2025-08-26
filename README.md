@@ -1,5 +1,4 @@
-# prime
-Welcome to mattywhee's GitHub Profile.
+# Welcome to mattywhee's GitHub Profile.
 
 :wave: I'm here to learn.
 
